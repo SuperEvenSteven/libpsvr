@@ -51,6 +51,7 @@ only_commits:
     - appveyor.yml
     - build.bat
     - src/
+
 deploy:
     # Deploy to GitHub Releases
   - provider: GitHub
