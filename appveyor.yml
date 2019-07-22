@@ -13,7 +13,6 @@ platform:
 environment:
   matrix:
   - arch: Win64
-  # - arch: #does not work, Release|x64 not a valid target
 matrix:
   fast_finish: true
   
